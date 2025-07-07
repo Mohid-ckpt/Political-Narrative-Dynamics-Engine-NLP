@@ -1,4 +1,4 @@
-# 🏛️ The Political Rhetoric Analyzer
+# 🏛️  Political Narrative Dynamics Engine - A Political Speech Analyzer Using NLP
 
 An interactive web application built with Python and Streamlit to analyze the evolution of political rhetoric in U.S. Presidential State of the Union (SOTU) addresses.
 
